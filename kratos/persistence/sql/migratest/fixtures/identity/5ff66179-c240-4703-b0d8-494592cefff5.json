@@ -1,0 +1,8 @@
+{
+  "id": "5ff66179-c240-4703-b0d8-494592cefff5",
+  "schema_id": "default",
+  "schema_url": "https://www.ory.sh/schemas/default",
+  "traits": {
+    "email": "bazbar@ory.sh"
+  }
+}
